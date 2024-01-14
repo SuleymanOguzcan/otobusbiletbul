@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 20,
+      "fiyat": 50
+    },
+    {
+      "id": 2,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-21",
+      "bosKoltuk": 15,
+      "fiyat": 55
+    },
+    {
+      "id": 3,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 10,
+      "fiyat": 60
+    },
+    {
+      "id": 4,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-23",
+      "bosKoltuk": 18,
+      "fiyat": 52
+    },
+    {
+      "id": 5,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-24",
+      "bosKoltuk": 25,
+      "fiyat": 48
+    },
+    {
+      "id": 6,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 12,
+      "fiyat": 56
+    },
+    {
+      "id": 7,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 22,
+      "fiyat": 53
+    },
+    {
+      "id": 8,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 17,
+      "fiyat": 58
+    },
+    {
+      "id": 9,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-20",
+      "bosKoltuk": 14,
+      "fiyat": 59
+    },
+    {
+      "id": 10,
+      "kalkisYeri": "Istanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-01-29",
+      "bosKoltuk": 30,
+      "fiyat": 45
+    }
+  ]
+  

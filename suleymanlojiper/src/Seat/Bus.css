@@ -1,0 +1,66 @@
+/* src/Seat/Bus.css */
+
+.bus {
+  border: 1px solid #ddd;
+  width: 40%;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.seat-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+  margin-bottom: 2px;
+}
+
+.seat {
+  display: flex;
+  flex: 0 0 calc(10% - 4px);
+  padding: 3px;
+  position: relative;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.seat label {
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px;
+  color: #fff;
+}
+
+.seat.male {
+  background: #3783b5;
+}
+
+.seat.female {
+  background: #ff69b4;
+}
+
+.seat.selected {
+  background: #46be8a;
+}
+
+.seat.disabled {
+  background: #ddd;
+}
+
+.seat.selected label {
+  background: #46be8a;
+}
+
+.seat.disabled label {
+  background: #ddd;
+}
+
+.warning-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
